@@ -22,9 +22,6 @@ A weboldal elérhető a GitHub repository \"about\" szakaszában felsorolt URL-l
 
 https://CBalazs1.github.io/FihCast
 
-# Képernyőkép a weboldalról
-
-<ADD SCREENSHOT HERE>
 
 # FELHÍVÁS / FELELŐSSÉG KIZÁRÁSA
 
@@ -59,9 +56,6 @@ The website is reachable with the url listed on the about section of this github
 https://CBalazs1.github.io/FihCast
 
 
-# Screenshot of the website
-
-<ADD SCREENSHOT HERE>
 
 
 # DISCLAIMER
@@ -69,3 +63,4 @@ https://CBalazs1.github.io/FihCast
 Users should understand that this website relies heavily on the use of free APIs and cannot do anything if that specific API is down, also users should be made aware that the way the website calculates the water temperature can be wrong to a certain degree. Since this is a github repo you could just clone it and run it locally if you don't trust random links on the internet (which is a smart idea).
 
 
+<ADD IMAGE HERE>
